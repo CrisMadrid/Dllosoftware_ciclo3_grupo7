@@ -1,0 +1,79 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Poppins';
+}
+
+#header {
+  padding: 60px;
+  text-align: center;
+  background: #c6b9cd;
+  color: #371e30;
+  font-size: 24px;
+}
+
+#btn-registrar {
+  background-color: #0f5257;
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  margin: 30px 0;
+  width: 80%;
+  border-radius: 10px;
+  height: 50px;
+}
+
+#btn-registrar > a {
+  color: white;
+  text-decoration: none;
+}
+
+#btn-form {
+  background-color: #0f5257;
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 10px 0;
+  width: 100%;
+  color: white;
+  border-radius: 10px;
+  cursor: pointer;
+  height: 50px;
+}
+
+#registro-header {
+  background-color: #c6b9cd;
+  padding: 20px 10px;
+  margin: 0;
+  color: #371e30;
+}
+
+#form-registro {
+  width: 50%;
+  margin: 30px auto;
+  text-align: left;
+}
+
+@media only screen and (max-width: 600px) {
+  #form-registro {
+    width: 80%;
+  }
+}
+
+label {
+  font-size: 16px;
+  text-align: left;
+  color: #371e30;
+}
+
+input {
+  height: 30px;
+  width: 100%;
+  border: 1px solid #c6b9cd;
+  border-radius: 10px;
+  padding: 5px;
+  margin-bottom: 30px;
+}
