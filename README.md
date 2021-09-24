@@ -7,9 +7,9 @@ HTML, CSS y Java Script.
 
 
 ## Desarrolladores a cargo
-Ana Madrid,
-Andri Morales, 
-Deisy Becerr, 
-Edwin Chaparr, 
-Joe Vallejo, 
-Ingrid Villa
+Ana Cristina Madrid,
+Andri Yiced Morales, 
+Deisy Veronica Becerra, 
+Edwin Javier Chaparro, 
+Jose Manuel Vallejo, 
+Ingrid ZulietteVilla
