@@ -1,0 +1,1 @@
+SELECT Nombre,Apellido,Telefono FROM  `Usuarios` ORDER BY Telefono DESC;
