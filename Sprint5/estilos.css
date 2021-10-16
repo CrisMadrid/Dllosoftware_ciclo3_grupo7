@@ -1,0 +1,58 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+div#cabezote, h1{
+  width: 100%;
+  height: 200px;
+  background-color: rgb(87, 197, 44);
+  border-radius: 0px 0px 16px 16px;
+}
+
+div#contenedor, h1{
+  box-sizing: border-box;
+  display: block;
+  font-size: 250%;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: 400;
+  color: aliceblue;
+  padding: 60px;
+  /* padding-left: 150px;
+  padding-top: 70px;
+  padding-right: 900px; */
+  text-align: center;
+}
+div#boton, input{
+  margin-top: 30px;
+  padding: auto;
+  padding-left: 30px;
+}
+
+label {
+  font-size: 20px;
+  text-align: left;
+  color: #157c18;
+}
+
+button, input{
+  background-color: #157c18;
+  border: none;
+  color: #ffffff;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+}
+
+
+body{
+  background-color:wheat;
+  margin: 0;
+  text-align: center;
+  font-family: 'Poppins';
+}
